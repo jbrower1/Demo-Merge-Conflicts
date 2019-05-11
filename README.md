@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Jon Brower
+A simple Demo, by Jon Brower
